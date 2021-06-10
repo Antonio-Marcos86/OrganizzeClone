@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="48dp"
         android:padding="12dp"
-        android:backgroundTint="@color/purple_700"
+        android:backgroundTint="@color/purple_500"
         android:text="Cadastre-se" />
 
     <TextView
